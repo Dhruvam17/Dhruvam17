@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **multiple significant projects and initiatives in different domains, including Web Development, AI/ML, Open Source, and more.**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning  **MERN Stack**
 
 - 👯 I’m looking to collaborate on **various projects, including Web Development, AI/ML, Open Source, and entrepreneurship.**
 
